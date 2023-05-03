@@ -2,13 +2,9 @@
 This repository contains the code to reproduce 11th place result in Kaggle American sign language recognition competition.  
 https://www.kaggle.com/competitions/asl-signs
 
----
-
 ## Solution on Kaggle
 Please refer below link for the detailed write up about solution.  
 https://www.kaggle.com/competitions/asl-signs/discussion/406657
-
----
 
 ## 1. Setup environment
 ```
